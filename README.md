@@ -1,3 +1,11 @@
+## 🧬 技术来源与体系
+
+本仓库是 **SINOSHOP** 海洋空间智能生态母体的一部分，为“船舶与航运”维度提供基础设施工具。
+
+- **顶层规范与母体仓库**：[SINOSHOP-OS](https://gitee.com/sinoshop/sinoshop-os) 定义了 SLFS (Super Large Floating Structure) 核心架构与物理基准（135m×27m，五层载荷抵消体系）。
+- **理论基础**：[SINOSFT](https://gitee.com/Sino-Submerged Floating Tunnel/SINOSFT) 提供悬浮隧道基础设施的数学公理与数值仿真标准。
+- **相关应用实例**：基于 SLFS 架构的极地氢能仿真验证平台 [sinoshop-openice](https://gitee.com/SINOSHIP/sinoshop-openice)。
+
 # SINOSHIP - 船舶与航运开源项目
 
 ## 项目简介
