@@ -1,4 +1,9 @@
-# SINOSHIP — 船舶与海上移动运输装备平台
+ 🌊 [SINOSHOP 技术导航中枢](https://gitee.com/sinoshop/sinoshop-hub) · [综合讨论](https://gitee.com/sinoshop/sinoshop-hub/issues) · 本仓库状态：🟢 活跃
+git add README.md
+git commit -m "添加 SINOSHOP 技术导航中枢链接"
+git push origin master
+cd ..
+ SINOSHIP — 船舶与海上移动运输装备平台
 
 > **观天之道，执天之行，三盗既宜，三才既安。**
 >
