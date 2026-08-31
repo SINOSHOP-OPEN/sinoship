@@ -116,5 +116,20 @@ python -m unittest discover tests
 欢迎通过 Issue 或 Pull Request 参与贡献。请确保代码风格一致，并包含相应的测试用例。
 
 ---
+---
 
-*贞忠昭日月，惠民播春秋。*
+## 📬 联系方式
+
+🌊 **SINOSHOP** — 自浮式智能海洋城市运营平台  
+基于悬浮隧道（SFT）核心技术，构建自浮式·智能·网络化·海洋城市·运营平台。
+
+🏠 **项目主页**：[https://sinoshop-open.github.io/webpage/](https://sinoshop-open.github.io/webpage/)  
+📂 **开源仓库**：[https://gitee.com/sinoshop/sinoshop-os](https://gitee.com/sinoshop/sinoshop-os)  
+- **GitHub 国际镜像**：[SINOSHOP-OPEN](https://github.com/SINOSHOP-OPEN)
+📧 **联系邮箱**：standards@sinoshop.org
+
+> 🌊观天之道，执天之行，造福人民。  
+> 🌊 **海生电、电养船、船搭桥、桥造城、城惠民、航天海、众生安。**
+> ✨ **贞忠昭日月，惠民播春秋。**
+
+---
